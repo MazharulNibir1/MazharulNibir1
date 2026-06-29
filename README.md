@@ -27,16 +27,27 @@ Now working on neural network efficiency, model compression, and scalable AI sol
 
 ---
 ##  MLOps Projects
-* 📦 **[Enterprise Production RAG](https://github.com/MazharulNibir1/enterprise-production-rag-analytics-engine)** — Scalable, production-ready retrieval-augmented generation pipeline optimized for performance and lower latency.
+*  **[Enterprise Production RAG Analytics Engine](https://github.com/MazharulNibir1/enterprise-production-rag-analytics-engine)** — Scalable, production-ready retrieval-augmented generation pipeline optimized for performance and lower latency.
+*  **[Medical Report Summerization](https://github.com/MazharulNibir1/Medical_Report_Summerization)** — A production-ready deep learning system for automatic medical report summarization using state-of-the-art transformer models.
+  
 
 ## Bussiness Analytics Projects
+* **[Financial Transactions Analysis](https://github.com/MazharulNibir1/Credit-Card-Fraud-Detection-using-Python)** — End-to-end pipeline that loads the public Credit Card Fraud Detection dataset (Kaggle) into SQLite, runs SQL analyses for unusual patterns, and uses Python (pandas, matplotlib, scikit-learn) to segment behavior and simulate a simple fraud-detection model.
+* **[Customer Churn Analysis with SQL and Python](https://github.com/MazharulNibir1/Customer-Churn-Analysis-with-SQL-and-Python)** — End-to-end pipeline that extracts data with SQL, then uses Python (pandas, matplotlib) for cleaning, feature engineering, churn labeling, modeling, and visualizations on retention and churn trends.
 
 
 ##  Research 
 
-* 🔬 **[Project/Repo Name](link)** — Comprehensive implementation of Knowledge Distillation (KD) for medical imaging architectures. Optimized feature-based and logit-based distillation methods.
+* **[Bridging transformers and state-space models: An efficient hybrid framework for 3D brain tumor segmentation](https://github.com/Yok4ai/SwinSSM)** - Capstone Thesis where we worked on 3D MRI brain tumor image segmentation using transformer models (Mamba)
 
-* 📊 **[Data-Driven Machine Learning Analysis](link)** — Comparative studies and evaluation metrics leveraging Random Forests, Logistic Regression, and robust data-cleaning pipelines.
+* **[🚬 Data-Driven Analysis of Smoking Habits among University Students using Machine Learning](https://github.com/MazharulNibir1/Data-Driven-Analysis-of-Smoking-Habits-among-University-Students-using-Machine-Learning)** — Comprehensive implementation of the smoking habits of university students through real-time data collection and machine learning techniques. The goal of this project is to identify patterns and potential predictors of smoking behavior, enabling better awareness and informed interventions.
+  
+* **[Comparative-analysis-of-Heuristic-Functions-in-Grid-based-motion-planning](https://github.com/MazharulNibir1/Comparative-analysis-of-Heuristic-Functions-in-Grid-based-motion-planning-495A-Paper-)** — CSE495A (Introduction to Robotics) course thesis project. This project dives deep into Grid-Based Motion Planning with A* Algorithm to explore the effects of different heuristic functions on pathfinding efficiency and computation time, providing a foundation for analyzing search-based motion planning methods.
+
+## Projects to Challenge Myself
+
+
+
 
 
 
