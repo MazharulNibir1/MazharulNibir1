@@ -28,7 +28,7 @@ Now working on neural network efficiency, model compression, and scalable AI sol
 ---
 ##  MLOps Projects
 *  **[Enterprise Production RAG Analytics Engine](https://github.com/MazharulNibir1/enterprise-production-rag-analytics-engine)** — Scalable, production-ready retrieval-augmented generation pipeline optimized for performance and lower latency.
-*  **[Medical Report Summerization](https://github.com/MazharulNibir1/Medical_Report_Summerization)** — A production-ready deep learning system for automatic medical report summarization using state-of-the-art transformer models.
+*  **[Medical Report Summerisation](https://github.com/MazharulNibir1/Medical_Report_Summerization)** — A production-ready deep learning system for automatic medical report summarization using state-of-the-art transformer models.
   
 
 ## Bussiness Analytics Projects
@@ -46,16 +46,16 @@ Now working on neural network efficiency, model compression, and scalable AI sol
 
 ## Projects to Challenge Myself
 
-
-
-
+* **[CLI-based Rock Paper Scissors](https://github.com/MazharulNibir1/CLI-based-Rock-Paper-Scissors)** — Pure Python implementation focusing on clean logic and terminal-based user control.
+* **[Hangman Python CLI Game](https://github.com/MazharulNibir1/Hangman-Python-CLI-Game)** — A structural terminal game built to practice state management and input handling.
 
 
 ## 🛠️ Tech Stack & Skills
 
-* **Core AI/CV:** PyTorch, Deep Neural Networks, Model Compressions (Knowledge Distillation), Computer Vision Pipelines
-* **Software Engineering:** Python, Production RAG Pipelines, Linux Environments, Scripting & Automation
-* **Research & Tools:** Overleaf/LaTeX, Matplotlib, Seaborn, Git Workflow
+* **Core AI & CV:** PyTorch, Deep Neural Networks, Model Compression (Knowledge Distillation), Transformers, HuggingFace, Computer Vision Pipelines
+* **MLOps & DevOps:** MLflow, Docker, Kubernetes, Jenkins CI/CD, Linux/Bash, Experiment Tracking (W&B)
+* **Software Engineering & Data:** Python, SQL (SQLite), Production RAG Pipelines, Pandas, NumPy, Git Workflow
+* **Research & Visualization:** LaTeX/Overleaf, Matplotlib, Seaborn
 
 <!-- ## 📈 Recent Contributions & Activity -->
 <!-- You can add dynamic GitHub stats widgets here later if desired -->
