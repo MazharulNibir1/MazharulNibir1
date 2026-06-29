@@ -1,8 +1,10 @@
-# Hi, I'm Mazharul 👋
+# Hi, I'm Nibir 👋
 
-🚀 **AI Scientist & Engineer** specializing in Computer Vision, deep learning optimization, and production-ready architectures.
+🚀 **AI Researcher & Engineer** specializing in Computer Vision, deep learning optimization, and production-ready architectures.
 
-Now working on neural network efficiency, model compression, and scalable AI solutions.
+Now working on neural network efficiency, model compression, and scalable AI in healthcare solutions to build more production-ready ML models.
+
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=eqYIQXoAAAAJ&hl=en)
 
 ### AI Engineering
 
