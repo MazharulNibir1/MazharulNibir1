@@ -26,12 +26,16 @@ Now working on neural network efficiency, model compression, and scalable AI sol
 
 
 ---
-##  Projects
+##  MLOps Projects
+* 📦 **[Enterprise Production RAG](https://github.com/MazharulNibir1/enterprise-production-rag-analytics-engine)** — Scalable, production-ready retrieval-augmented generation pipeline optimized for performance and lower latency.
+
+## Bussiness Analytics Projects
+
 
 ##  Research 
 
 * 🔬 **[Project/Repo Name](link)** — Comprehensive implementation of Knowledge Distillation (KD) for medical imaging architectures. Optimized feature-based and logit-based distillation methods.
-* 📦 **[Enterprise Production RAG](link)** — Scalable, production-ready retrieval-augmented generation pipeline optimized for performance and lower latency.
+
 * 📊 **[Data-Driven Machine Learning Analysis](link)** — Comparative studies and evaluation metrics leveraging Random Forests, Logistic Regression, and robust data-cleaning pipelines.
 
 
