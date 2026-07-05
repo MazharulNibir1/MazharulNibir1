@@ -50,6 +50,7 @@ Now working on neural network efficiency, model compression, and scalable AI in 
 
 * **[CLI-based Rock Paper Scissors](https://github.com/MazharulNibir1/CLI-based-Rock-Paper-Scissors)** — Pure Python implementation focusing on clean logic and terminal-based user control.
 * **[Hangman Python CLI Game](https://github.com/MazharulNibir1/Hangman-Python-CLI-Game)** — A structural terminal game built to practice state management and input handling.
+* **[FastAPI based URL Shortener](https://github.com/MazharulNibir1/fastapi-url-shortner)** - A FastAPI URL shortener with Redis-cached, PostgreSQL-backed redirects.
 
 
 ## 🛠️ Tech Stack & Skills
