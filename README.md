@@ -6,8 +6,9 @@ Now working on neural network efficiency, model compression, and scalable AI in 
 
 🔬 **Research Portfolio:** Find my published work and citations on [Google Scholar](https://scholar.google.com/citations?user=eqYIQXoAAAAJ&hl=en)
 
-### AI Engineering
+**Contact:** [mazharulnibirwork4109@gmail.com](mailto:mazharulnibirwork4109@gmail.com)
 
+### AI Engineering
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/docs/transformers/index)
