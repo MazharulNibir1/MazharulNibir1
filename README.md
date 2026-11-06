@@ -2,7 +2,7 @@
 
 **ML Engineer · computer vision and efficient deep learning for medical imaging**
 
-Graduate Teaching & Research Assistant, North South University · 3 journal publications (2× Q1) ·
+Graduate Teaching & Research Assistant, North South University · 3 journal publications (2× Q1) 
 
 [Google Scholar](https://scholar.google.com/citations?user=eqYIQXoAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/mazharul-islam-nibir-497480211/) · [Email](mailto:mazharulnibirwork4109@gmail.com)
 <!-- TODO: add " · [Website](https://...)" once your site is live -->
