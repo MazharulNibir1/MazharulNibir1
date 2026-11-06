@@ -1,65 +1,43 @@
-# Hi, I'm Nibir 👋
+# Mazharul Islam Nibir
 
-🚀 **AI Researcher & Engineer** specializing in Computer Vision, deep learning optimization, and production-ready architectures.
+**ML Engineer · computer vision and efficient deep learning for medical imaging**
 
-Now working on neural network efficiency, model compression, and scalable AI in healthcare solutions to build more production-ready ML models.
+Graduate Teaching & Research Assistant, North South University · 3 journal publications (2× Q1) · Open to graduate ML engineering roles in the UK
 
-🔬 **Research Portfolio:** Find my published work and citations on [Google Scholar](https://scholar.google.com/citations?user=eqYIQXoAAAAJ&hl=en)
-
-**Contact:** [mazharulnibirwork4109@gmail.com](mailto:mazharulnibirwork4109@gmail.com)
-
-### AI Engineering
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/docs/transformers/index)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)](https://wandb.ai/)
-
-### DevOps & MLOps
-
-[![MLflow](https://img.shields.io/badge/MLOps-012443?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
-[![DevOps](https://img.shields.io/badge/DevOps-000000?style=flat-square&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/products/devops/)
-
+[Google Scholar](https://scholar.google.com/citations?user=eqYIQXoAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/mazharul-islam-nibir-497480211/) · [Email](mailto:mazharulnibirwork4109@gmail.com)
+<!-- TODO: add " · [Website](https://...)" once your site is live -->
 
 ---
-##  MLOps Projects
-*  **[Enterprise Production RAG Analytics Engine](https://github.com/MazharulNibir1/enterprise-production-rag-analytics-engine)** — Scalable, production-ready retrieval-augmented generation pipeline optimized for performance and lower latency.
-*  **[Medical Report Summerisation](https://github.com/MazharulNibir1/Medical_Report_Summerization)** — A production-ready deep learning system for automatic medical report summarization using state-of-the-art transformer models.
-  
 
-## Bussiness Analytics Projects
-* **[Financial Transactions Analysis](https://github.com/MazharulNibir1/Credit-Card-Fraud-Detection-using-Python)** — End-to-end pipeline that loads the public Credit Card Fraud Detection dataset (Kaggle) into SQLite, runs SQL analyses for unusual patterns, and uses Python (pandas, matplotlib, scikit-learn) to segment behavior and simulate a simple fraud-detection model.
-* **[Customer Churn Analysis with SQL and Python](https://github.com/MazharulNibir1/Customer-Churn-Analysis-with-SQL-and-Python)** — End-to-end pipeline that extracts data with SQL, then uses Python (pandas, matplotlib) for cleaning, feature engineering, churn labeling, modeling, and visualizations on retention and churn trends.
+## Featured projects
 
+| Project | What it does | Stack | Evidence |
+|---|---|---|---|
+| [**financial-crag-agent**](https://github.com/MazharulNibir1/financial-crag-agent) | Local corrective RAG agent that answers questions over SEC 10-K/10-Q filings and re-retrieves when context is insufficient | LangGraph, Ollama, ChromaDB | Ragas evaluation suite, mocked pytest suite |
+| [**medical-report-summarization**](https://github.com/MazharulNibir1/medical-report-summarization) | Abstractive summarization of medical transcriptions with fine-tuned T5-small, compared against extractive and BART baselines | PyTorch, Hugging Face Transformers | ROUGE-1 0.85, BERTScore F1 0.97 ([eval notes](https://github.com/MazharulNibir1/medical-report-summarization#evaluation-notes)) |
+| [**fastapi-url-shortener**](https://github.com/MazharulNibir1/fastapi-url-shortener) | Async URL shortener with Redis cache in front of PostgreSQL and per-code click counting | FastAPI, SQLAlchemy 2.0, PostgreSQL, Redis, Alembic | Docker Compose setup, schema migrations |
 
-##  Research 
+## Publications
 
-* **[Bridging transformers and state-space models: An efficient hybrid framework for 3D brain tumor segmentation](https://github.com/Yok4ai/SwinSSM)** - Capstone Thesis where we worked on 3D MRI brain tumor image segmentation using transformer models (Mamba)
+1. **Bridging transformers and state-space models: An efficient hybrid framework for 3D brain tumor segmentation.** *Biomedical Signal Processing and Control* (Elsevier), 2026. [Paper](https://www.sciencedirect.com/science/article/pii/S1746809426009602)
+2. **Multimodal fusion of visual and auditory biomarkers: An epoch-wise stochastic modality masking framework for stroke detection using a CNN–GRU network.** *Array* (Elsevier), vol. 30, 2026. [Paper](https://doi.org/10.1016/j.array.2026.100787)
+3. **Understanding When Attention Helps: A Systematic Empirical Study of Attention Mechanisms in Medical Image Classification.** *Engineering Reports* (Wiley), 2026. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.70957)
 
-* **[🚬 Data-Driven Analysis of Smoking Habits among University Students using Machine Learning](https://github.com/MazharulNibir1/Data-Driven-Analysis-of-Smoking-Habits-among-University-Students-using-Machine-Learning)** — CSE445 (Intro to Machine Learning) course project. This porject uses real life colleted data (Using google forms) from the students of North South University to understand the smoking habits of university students through machine learning techniques. The goal of this project is to identify patterns and potential predictors of smoking behavior, enabling better awareness and informed interventions.
-  
-* **[Comparative-analysis-of-Heuristic-Functions-in-Grid-based-motion-planning](https://github.com/MazharulNibir1/Comparative-analysis-of-Heuristic-Functions-in-Grid-based-motion-planning-495A-Paper-)** — CSE495A (Introduction to Robotics) course thesis project. This project dives deep into Grid-Based Motion Planning with A* Algorithm to explore the effects of different heuristic functions on pathfinding efficiency and computation time, providing a foundation for analyzing search-based motion planning methods.
+Full list on [Google Scholar](https://scholar.google.com/citations?user=eqYIQXoAAAAJ&hl=en).
 
-## Projects to Challenge Myself
+## Research interests
 
-* **[CLI-based Rock Paper Scissors](https://github.com/MazharulNibir1/CLI-based-Rock-Paper-Scissors)** — Pure Python implementation focusing on clean logic and terminal-based user control.
-* **[Hangman Python CLI Game](https://github.com/MazharulNibir1/Hangman-Python-CLI-Game)** — A structural terminal game built to practice state management and input handling.
-* **[FastAPI based URL Shortener](https://github.com/MazharulNibir1/fastapi-url-shortner)** - A FastAPI URL shortener with Redis-cached, PostgreSQL-backed redirects.
+3D medical image segmentation · attention mechanisms · knowledge distillation and model compression · state-space models (Mamba) · explainable AI
 
+## Other work
 
-## 🛠️ Tech Stack & Skills
+- [Credit card fraud analysis](https://github.com/MazharulNibir1/Credit-Card-Fraud-Detection-using-Python): SQL (SQLite) + pandas + scikit-learn
+- [Customer churn analysis](https://github.com/MazharulNibir1/Customer-Churn-Analysis-with-SQL-and-Python): SQL extraction, feature engineering, churn modelling
+- [A* heuristics for grid-based motion planning](https://github.com/MazharulNibir1/Comparative-analysis-of-Heuristic-Functions-in-Grid-based-motion-planning-495A-Paper-): heuristic comparison, path cost vs compute time
 
-* **Core AI & CV:** PyTorch, Deep Neural Networks, Model Compression (Knowledge Distillation), Transformers, HuggingFace, Computer Vision Pipelines
-* **MLOps & DevOps:** MLflow, Docker, Kubernetes, Jenkins CI/CD, Linux/Bash, Experiment Tracking (W&B)
-* **Software Engineering & Data:** Python, SQL (SQLite), Production RAG Pipelines, Pandas, NumPy, Git Workflow
-* **Research & Visualization:** LaTeX/Overleaf, Matplotlib, Seaborn
+## Stack
 
-<!-- ## 📈 Recent Contributions & Activity -->
-<!-- You can add dynamic GitHub stats widgets here later if desired -->
+- **ML:** Python, PyTorch, Hugging Face Transformers, scikit-learn, OpenCV
+- **LLM / RAG:** LangGraph, LangChain, Ollama, ChromaDB, Ragas
+- **Backend:** FastAPI, SQLAlchemy, PostgreSQL, Redis, SQL
+- **Tooling:** Docker, Git, pytest, Linux, LaTeX
